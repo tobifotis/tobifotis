@@ -3,8 +3,7 @@
 
 
 
-
-![212280823-79088828-a258-4a4d-8d6c-96315d5a07af](https://github.com/tobifotis/tobifotis/assets/136779793/e6a2776d-b867-400b-bab5-bf1b9d131ef8)
+![image](https://github.com/tobifotis/tobifotis/assets/136779793/91323c17-33b4-43f7-b273-60ebb7d373f3)
 
 
 # Hi, I'm Tobi 👋
