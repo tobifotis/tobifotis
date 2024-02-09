@@ -3,8 +3,6 @@
 
 
 
-![image](https://github.com/tobifotis/tobifotis/assets/136779793/91323c17-33b4-43f7-b273-60ebb7d373f3)
-
 
 # Hi, I'm Tobi 👋
 
