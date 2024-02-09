@@ -5,6 +5,10 @@
 
 
 
+
+
+
+
 # Hi, I'm Tobi 👋
 
 I'm a Computer Science student at the University of North Texas and a certified AWS Solutions Architect. I am passionate about technology and skilled in cloud development, migration, and implementation of cloud services. Seeking an internship opportunity where I can learn and develop my skills while actively contributing to innovative projects within a dynamic environment.
