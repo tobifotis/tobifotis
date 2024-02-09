@@ -1,5 +1,6 @@
 #### DevOps Engineer
-![DevOps Engineer](https://media.licdn.com/dms/image/D4E16AQEMmJRe6BHoUQ/profile-displaybackgroundimage-shrink_350_1400/0/1702909347430?e=1712793600&v=beta&t=Bd0kfPZSUv7TW_MANV9CP3o4cMBkd4zpc2qdhxC50gk)
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/tobifotis/tobifotis/assets/136779793/7867ad0e-5d72-4d1e-af4f-e9582f1c9408)
+
 
 # 👋 Hi!
 
