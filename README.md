@@ -6,7 +6,7 @@
 
 # Hi 👋
 
-I'm a passionate DevOps engineer with a strong foundation in continuous integration and continuous deployment (CI/CD), skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
+Passionate DevOps engineer with a solid understanding of continuous integration and continuous deployment (CI/CD). I am skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
  
 
 ## Skills
@@ -20,7 +20,7 @@ I'm a passionate DevOps engineer with a strong foundation in continuous integrat
 
 
 
-###  🌱 I’m currently learning c++
+###  🌱 I’m currently learning C++
 ### 📫 How to reach me: Tobiemanuel25@gmail.com 
 
 
