@@ -4,9 +4,9 @@
 
 
 
-# Hi 👋
+# Hi, I'm Tobi 👋
 
-Passionate DevOps engineer with a solid understanding of continuous integration and continuous deployment (CI/CD). I am skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
+A passionate DevOps engineer with a solid understanding of continuous integration and continuous deployment (CI/CD) principles. I am skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
  
 
 ## Skills
