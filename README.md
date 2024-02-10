@@ -6,7 +6,7 @@
 
 # Hi 👋
 
- Passionate DevOps engineer with a strong foundation in continuous integration and continuous deployment (CI/CD), skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
+I'm a passionate DevOps engineer with a strong foundation in continuous integration and continuous deployment (CI/CD), skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
  
 
 ## Skills
