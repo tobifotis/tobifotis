@@ -6,9 +6,8 @@
 
 # Hi 👋
 
-I'm passionate about technology and skilled in cloud development, migration, and implementation of cloud services. Seeking an internship opportunity where I can learn and develop my skills while actively contributing to innovative projects within a dynamic environment.
-
-##  🌱 I’m currently learning c++ 
+ Passionate DevOps engineer with a strong foundation in continuous integration and continuous deployment (CI/CD), skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
+ 
 
 ## Skills
 - AWS ☁️ (Cloud Platform)
@@ -21,7 +20,7 @@ I'm passionate about technology and skilled in cloud development, migration, and
 
 
 
-
+###  🌱 I’m currently learning c++
 ### 📫 How to reach me: Tobiemanuel25@gmail.com 
 
 
