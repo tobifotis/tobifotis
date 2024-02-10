@@ -20,7 +20,7 @@ A passionate DevOps engineer with a solid understanding of continuous integratio
 
 
 
-###  🌱 I’m currently learning C++
-### 📫 How to reach me: Tobiemanuel25@gmail.com 
+- ###  🌱 I’m currently learning C++
+- ### 📫 How to reach me: Tobiemanuel25@gmail.com 
 
 
