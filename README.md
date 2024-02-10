@@ -23,9 +23,6 @@ A passionate DevOps engineer with a solid understanding of continuous integratio
 - ###  🌱 I’m currently learning C++
 
 
-![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/tobifotis/tobifotis/assets/136779793/3c199f2c-e117-4076-b33c-bbc873704525)
-
-
 - ### 📫 How to reach me: Tobiemanuel25@gmail.com 
 
 
