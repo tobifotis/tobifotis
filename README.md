@@ -6,7 +6,7 @@
 
 # Hi, I'm Tobi 👋
 
-A student with a solid understanding of continuous integration and continuous deployment (CI/CD) principles. I am skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges in the tech world.
+A student with a solid understanding of continuous integration and continuous deployment (CI/CD) principles. I am skilled in cloud development and AWS services. Experienced in utilizing Git for version control and Jenkins for CI/CD pipelines. Always eager to learn and take on new challenges.
  
 
 ## Skills
