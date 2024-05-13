@@ -10,11 +10,10 @@ A student with a solid understanding of continuous integration and continuous de
  
 
 ## Skills
+- Python 🐍 (Programming Language)
+- SQL 🗃️ (Database Management)
 - AWS ☁️ (Cloud Platform)
 - Git 📝 (Version Control)
-- Infrastructure as Code 🛠️ (Automated Provisioning)
-- Jenkins 🛠️ (CI/CD)
-- Terraform 🏗️ (Infrastructure Orchestration)
 
  ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/tobifotis/tobifotis/assets/136779793/b951ccfe-5e97-40ba-8737-4c00055a922e)
 
