@@ -19,7 +19,7 @@ I am always happy to learn anything about technology and take on new challenges.
 
 
 
-- ###  🌱 I’m currently learning C++
+- ###  🌱 I’m currently learning Data Structures
 
 
 - ### 📫 How to reach me: Tobiemanuel25@gmail.com 
