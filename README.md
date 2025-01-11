@@ -6,7 +6,7 @@
 
 # Hi, I'm Tobi 👋
 
-I am always happy to learn anything about technology and take on new challenges.
+I am always open to learning and taking on new challenges.
  
 
 ## Skills
