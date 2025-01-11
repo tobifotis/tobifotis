@@ -22,7 +22,7 @@ I am always happy to learn anything about technology and take on new challenges.
 
 
 
-- ###  🌱 Marginal gains
+- ###  🌱 I am currently learning Artificial Intelligence
 
 
 - ### 📫 How to reach me: Tobiemanuel25@gmail.com 
