@@ -22,7 +22,7 @@ I am always happy to learn anything about technology and take on new challenges.
 
 
 
-- ###  🌱 I’m currently learning Data Structures
+- ###  🌱 Marginal gains
 
 
 - ### 📫 How to reach me: Tobiemanuel25@gmail.com 
