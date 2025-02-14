@@ -1,9 +1,3 @@
-#### Oluwatobi (Tobi) Emmanuel
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/tobifotis/tobifotis/assets/136779793/7867ad0e-5d72-4d1e-af4f-e9582f1c9408)
-
-
-
-
 # Hi, I'm Tobi 👋
 
 I am always open to learning and taking on new challenges.
