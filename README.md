@@ -3,11 +3,13 @@
   <h3>Aspiring Software Engineer</h3>
 </div>
 
-- ⚡ Fun fact: Bananas Are Berries, But Strawberries Aren't!
-- 🌱 I am currently learning Artificial Intelligence
 
+
+- 🌱 I am currently learning Artificial Intelligence
+- 📫 How to reach me: Tobiemanuel25@gmail.com
+- ⚡ Fun fact: Bananas Are Berries, But Strawberries Aren't!
  
-## Programmin' Languages
+## 00-Programmin' Languages
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius: 10px;"/>&nbsp;&nbsp;  
 </p>
 
-## Libraries & Frameworks
+## 01-Libraries & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   &nbsp;&nbsp;
@@ -37,7 +39,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-## Tools & Technologies
+## 02-Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   &nbsp;&nbsp;
@@ -50,7 +52,7 @@
   <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## GitHub Stats
+## [size-1]-GitHub Stats
 
 <table>
   <tr>
@@ -62,9 +64,6 @@
     </td>
   </tr>
 </table>
-
-
-- 📫 How to reach me: Tobiemanuel25@gmail.com
 
 
 
