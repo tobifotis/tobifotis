@@ -6,7 +6,7 @@
 
 
 - 🌱 I am currently learning Artificial Intelligence
-- 📫 How to reach me: Tobiemanuel25@gmail.com
+- 📫 How to reach me Tobiemanuel25@gmail.com
 - ⚡ Fun fact: Bananas Are Berries, But Strawberries Aren't!
  
 ## 00-Programmin' Languages
