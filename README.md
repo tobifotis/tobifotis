@@ -8,7 +8,6 @@
 - 🌱 I am currently learning Artificial Intelligence
 - 📫 Contact me at Tobiemanuel25@gmail.com
 - ⚡ Fun fact: Bananas Are Berries, But Strawberries Aren't!
-- **🎤 This song made Adele cry** 👉 [Listen at your own risk](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <br> 
 
