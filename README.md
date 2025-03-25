@@ -7,7 +7,7 @@
 
 - 🌱 I am currently learning Artificial Intelligence
 - 📫 Contact me at Tobiemanuel25@gmail.com
-- ⚡ Fun fact: Bananas Are Berries, But Strawberries Aren't!
+
 
 <br> 
 
@@ -23,6 +23,10 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+- ⚡ Fun fact: Bananas Are Berries, But Strawberries Aren't!
 
 
 
