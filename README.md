@@ -1,5 +1,6 @@
   <h1>
-    Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40px"/> I'm Tobi
+    Oluwatobi Emmanuel
+     <!-- <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40px"/>  -->
   </h1>
 <div align="center"> 
 
@@ -16,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -38,12 +39,12 @@
 
 ---
 
-## 🔭 Currently Working On
+## Currently Working On
 - Terraform Associate (004) certification with a focus on production-ready infrastructure automation
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 ## 🔹 [Terraform ECS Three-Tier Architecture](https://github.com/tobifotis/terraform-ecs-project)
 
