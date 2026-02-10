@@ -34,7 +34,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 
-#### **Specialties:** Cloud Infrastructure • Terraform (IaC) • CI/CD Automation • Systems & Reliability Engineering • Technical Communication
+#### **Specialties:** Cloud Infrastructure • Terraform (IaC) • CI/CD Automation • Network & System Engineering • Technical Communication
 
 </div>
 
