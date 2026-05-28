@@ -26,6 +26,8 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,6 +48,19 @@
 ---
 
 ## Featured Projects
+
+## 🔹 [AI Platform on EKS](https://github.com/tobifotis/eks-ai-platform)
+
+AI chat platform deployed on AWS EKS with Helm-managed Open WebUI, Anthropic Claude API, and Headlamp dashboard.
+- Provisioned a 2-node EKS cluster with eksctl, configured with EBS CSI Driver and gp3 StorageClass for persistent storage
+- Deployed Open WebUI via Helm as a ChatGPT-style interface connected to the Anthropic Claude API
+- Deployed Headlamp as an in-cluster Kubernetes dashboard with RBAC-scoped ServiceAccount authentication
+- Managed sensitive API credentials through Kubernetes Secrets, isolated workloads across namespaces
+- Automated full stack deployment and teardown with bash scripts for reproducibility
+
+**Stack:** AWS EKS, Kubernetes, Helm, Open WebUI, Anthropic API, Headlamp, EBS CSI Driver, RBAC, Bash
+
+---
 
 ## 🔹 [Terraform ECS Three-Tier Architecture](https://github.com/tobifotis/terraform-ecs-project)
 
